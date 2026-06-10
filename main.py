@@ -6,7 +6,7 @@ Run this script from the project root:
     python main.py
 """
  
-from task_manager.task_utils import (
+from task_utils import (
     add_task,
     mark_task_as_complete,
     view_pending_tasks,

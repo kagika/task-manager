@@ -2,7 +2,7 @@
 task_utils.py - Core task management functions for the Task Manager application.
 """
 
-from task_manager.validation import (
+from validation import (
     validate_task_title,
     validate_task_description,
     validate_due_date,
